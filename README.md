@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
  - [ARM mbed](http://www.mbed.com/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
  - [Contiki](http://www.contiki-os.org/) - Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet.
- - [FreeRTOS](http://www.freertos.org/) - FreeRTOS is a popular[1] real-time operating system kernel[2][3] for embedded devices, that has been ported to 35 microcontrollers.
+ - [FreeRTOS](http://www.freertos.org/) - FreeRTOS is a popular real-time operating system kernel for embedded devices, that has been ported to 35 microcontrollers.
  - [Google Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.
  - [Raspbian](https://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
  - [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things.
