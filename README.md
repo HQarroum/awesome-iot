@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Protocols](#protocols)
   - [M2M Platforms](#m2m)
   - [Libraries & Tools](#libraries-and-tools)
-  - [Miscelleanous](#miscelleanous)
+  - [Miscellaneous](#miscellaneous)
   - [Programming Languages](#programming-languages)
 - [Resources](#resources)
   - [Books](#books)
