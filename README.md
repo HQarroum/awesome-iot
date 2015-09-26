@@ -1,5 +1,8 @@
 # Awesome IoT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="" align="right" width="100">](http://electron.atom.io)
+
+
 > A curated list of awesome Internet of Things projects and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
@@ -14,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Libraries & Tools](#libraries-and-tools)
   - [Miscellaneous](#miscellaneous)
 - [Protocols and Networks](#protocols-and-alliances)
+- [Technologies](#technologies)
 - [Standards & Alliances](#standard-and-alliances)
 - [Resources](#resources)
   - [Books](#books)
@@ -22,6 +26,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Existing projects](#existing-projects)
   - [Open Source](#open-source)
   - [Closed Source](#closed-source)
+
+### Hardware
+
+- [Raspberry Pi](https://www.raspberrypi.org/) - The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
 
 ### Software
 
