@@ -4,6 +4,23 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Hardware](#hardware)
+- [Software](#software)
+  - [Operating systems](#operating-systems)
+  - [Frameworks](#frameworks)
+  - [Protocols](#protocols)
+  - [M2M Platforms](#m2m)
+  - [Miscelleanous](#miscelleanous)
+  - [Programming Languages](#programming-languages)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Articles](#articles)
+- [Existing projects](#existing-projects)
+  - [Open Source](#open-source)
+  - [Closed Source](#closed-source)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
