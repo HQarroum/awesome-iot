@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Frameworks](#frameworks)
   - [Libraries & Tools](#libraries-and-tools)
   - [Miscellaneous](#miscellaneous)
-- [Protocols and Networks](#m2m)
+- [Protocols and Networks](#protocols-and-alliances)
 - [Standards & Alliances](#standard-and-alliances)
 - [Resources](#resources)
   - [Books](#books)
