@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Frameworks](#frameworks)
   - [Protocols](#protocols)
   - [M2M Platforms](#m2m)
+  - [Libraries & Tools](#libraries-and-tools)
   - [Miscelleanous](#miscelleanous)
   - [Programming Languages](#programming-languages)
 - [Resources](#resources)
