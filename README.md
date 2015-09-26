@@ -15,6 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Miscellaneous](#miscellaneous)
   - [Programming Languages](#programming-languages)
 - [M2M Platforms](#m2m)
+- [Standards & Alliances](#standard-and-alliances)
 - [Resources](#resources)
   - [Books](#books)
   - [Articles](#articles)
