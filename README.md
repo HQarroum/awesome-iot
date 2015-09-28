@@ -52,6 +52,15 @@ prototype, scale, and manage your Internet of Things products.
  - [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things.
  - [Tiny OS](http://www.tinyos.net/) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
 
+#### Programming languages
+
+> This sections regroups every awesome programming language, wther it is compiled, interpreted or a DSL, related to embedded development.
+
+ - [C](https://en.wikipedia.org/wiki/C_(programming_language) - C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+ - [C++](https://en.wikipedia.org/wiki/C%2B%2B) - C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+ - [Lua](http://www.lua.org/) - Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
+ - [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
+
 #### Frameworks
 
  - [Eclipse Smarthome](https://eclipse.org/smarthome/) - The Eclipse SmartHome framework is designed to run on embedded devices, such as a Raspberry Pi, a BeagleBone Black or an Intel Edison. It requires a Java 7 compliant JVM and an OSGi (4.2+) framework, such as Eclipse Equinox.
