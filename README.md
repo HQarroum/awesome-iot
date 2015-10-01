@@ -16,7 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Middlewares](#middlewares)
   - [Libraries & Tools](#libraries-and-tools)
   - [Miscellaneous](#miscellaneous)
-- [Protocols and Networks](#protocols-and-alliances)
+- [Protocols and Networks](#protocols-and-networks)
 - [Technologies](#technologies)
 - [Standards & Alliances](#standard-and-alliances)
 - [Resources](#resources)
