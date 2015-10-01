@@ -82,7 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
  - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
 
-## Protocols and Networds
+## Protocols and Networks
 
 ### Physical layer
 
