@@ -201,10 +201,11 @@ Near field communication (NFC) is the set of protocols that enable electronic de
 
 ## Standards & Alliances
 
+- [AllSeen Alliance](https://allseenalliance.org/) - The AllSeen Alliance is a nonprofit consortium dedicated to enabling and driving the widespread adoption of products, systems and services that support the Internet of Everything with an open, universal development framework supported by a vibrant ecosystem and thriving technical community.
 - [Bluetooth Special Interest Group](https://www.bluetooth.org/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers. The SIG is a not-for-profit, non-stock corporation founded in September 1998. The SIG is headquartered in Kirkland, Washington.
-- [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® is a worldwide network of companies composed of several companies forming a global non-profit association with the goal of driving the best user experience with a new wireless networking technology – regardless of brand.
 - [Open Interconnect Consortium](http://openinterconnect.org/) - The Open Interconnect Consortium (OIC) is an industry group whose stated mission is to develop standards and certification for devices involved in the Internet of Things (IoT) based around CoAP. OIC was created in July 2014 by Intel, Broadcom, and Samsung Electronics.
 - [Thread Group](http://threadgroup.org/) - The Thread Group, composed of members from Nest, Samsung, ARM, Freescale, Silicon Labs, Big Ass Fans and Yale, drives the development of the Thread network protocol.
+- [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® is a worldwide network of companies composed of several companies forming a global non-profit association with the goal of driving the best user experience with a new wireless networking technology – regardless of brand.
 
 ## License
 
