@@ -199,6 +199,13 @@ WebSocket is a protocol providing full-duplex communication channels over a sing
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
+## Standards & Alliances
+
+- [Bluetooth Special Interest Group](https://www.bluetooth.org/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers. The SIG is a not-for-profit, non-stock corporation founded in September 1998. The SIG is headquartered in Kirkland, Washington.
+- [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® is a worldwide network of companies composed of several companies forming a global non-profit association with the goal of driving the best user experience with a new wireless networking technology – regardless of brand.
+- [Open Interconnect Consortium](http://openinterconnect.org/) - The Open Interconnect Consortium (OIC) is an industry group whose stated mission is to develop standards and certification for devices involved in the Internet of Things (IoT) based around CoAP. OIC was created in July 2014 by Intel, Broadcom, and Samsung Electronics.
+- [Thread Group](http://threadgroup.org/) - The Thread Group, composed of members from Nest, Samsung, ARM, Freescale, Silicon Labs, Big Ass Fans and Yale, drives the development of the Thread network protocol.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
