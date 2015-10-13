@@ -201,6 +201,13 @@ Near field communication (NFC) is the set of protocols that enable electronic de
 
 ## Standards & Alliances
 
+### Standards
+
+- [ETSI M2M](http://www.etsi.org/technologies-clusters/technologies/m2m) - The ETSI Technical Committee is developing standards for Machine to Machine Communications. It aims to provide an end-to-end view of Machine to Machine standardization, and will co-operate closely with ETSI's activities on Next Generation Networks, and also with the work of the 3GPP standards initiative for mobile communication technologies.
+- [OneM2M](http://www.onem2m.org/) - The purpose and goal of oneM2M is to develop technical specifications which address the need for a common M2M Service Layer that can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with M2M application servers worldwide.
+
+### Alliances
+
 - [AllSeen Alliance](https://allseenalliance.org/) - The AllSeen Alliance is a nonprofit consortium dedicated to enabling and driving the widespread adoption of products, systems and services that support the Internet of Everything with an open, universal development framework supported by a vibrant ecosystem and thriving technical community.
 - [Bluetooth Special Interest Group](https://www.bluetooth.org/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers. The SIG is a not-for-profit, non-stock corporation founded in September 1998. The SIG is headquartered in Kirkland, Washington.
 - [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
