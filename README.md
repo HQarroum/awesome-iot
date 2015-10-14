@@ -203,19 +203,19 @@ Near field communication (NFC) is the set of protocols that enable electronic de
 
 ### Standards
 
-- [ETSI M2M](http://www.etsi.org/technologies-clusters/technologies/m2m) - The ETSI Technical Committee is developing standards for Machine to Machine Communications. It aims to provide an end-to-end view of Machine to Machine standardization, and will co-operate closely with ETSI's activities on Next Generation Networks, and also with the work of the 3GPP standards initiative for mobile communication technologies.
+- [ETSI M2M](http://www.etsi.org/technologies-clusters/technologies/m2m) - The ETSI Technical Committee is developing standards for Machine to Machine Communications.
 - [OneM2M](http://www.onem2m.org/) - The purpose and goal of oneM2M is to develop technical specifications which address the need for a common M2M Service Layer that can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with M2M application servers worldwide.
 
 ### Alliances
 
 - [AllSeen Alliance](https://allseenalliance.org/) - The AllSeen Alliance is a nonprofit consortium dedicated to enabling and driving the widespread adoption of products, systems and services that support the Internet of Everything with an open, universal development framework supported by a vibrant ecosystem and thriving technical community.
-- [Bluetooth Special Interest Group](https://www.bluetooth.org/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers. The SIG is a not-for-profit, non-stock corporation founded in September 1998. The SIG is headquartered in Kirkland, Washington.
+- [Bluetooth Special Interest Group](https://www.bluetooth.org/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 - [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
 - [LoRa Alliance](https://www.lora-alliance.org/) - The LoRa Alliance is an open, non-profit association of members that believes the internet of things era is now. It was initiated by industry leaders with a mission to standardize Low Power Wide Area Networks (LPWAN) being deployed around the world to enable Internet of Things (IoT), machine-to-machine (M2M), and smart city, and industrial applications.
 - [Open Interconnect Consortium](http://openinterconnect.org/) - The Open Interconnect Consortium (OIC) is an industry group whose stated mission is to develop standards and certification for devices involved in the Internet of Things (IoT) based around CoAP. OIC was created in July 2014 by Intel, Broadcom, and Samsung Electronics.
 - [Thread Group](http://threadgroup.org/) - The Thread Group, composed of members from Nest, Samsung, ARM, Freescale, Silicon Labs, Big Ass Fans and Yale, drives the development of the Thread network protocol.
 - [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® is a worldwide network of companies composed of several companies forming a global non-profit association with the goal of driving the best user experience with a new wireless networking technology – regardless of brand.
-- [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards. The Alliance promotes worldwide adoption of ZigBee as the leading wirelessly networked, sensing and control standard for use in consumer, commercial and industrial areas.
+- [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
 - [Z-Wave Alliance](http://z-wavealliance.org/) - Established in 2005, the Z-Wave Alliance is comprised of industry leaders throughout the globe that are dedicated to the development and extension of Z-Wave as the key enabling technology for 'smart' home and business applications.
 
 ## License
