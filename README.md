@@ -211,6 +211,7 @@ Near field communication (NFC) is the set of protocols that enable electronic de
 
 ### Alliances
 
+- [AIOTI](http://www.meet-iot.eu/Alliance-for-Internet-of-Things-Innovation-AIOTI.html) - The Internet of Things Innovation (AIOTI) aims to strengthen links and build new relationships between the different IoT players (industries, SMEs, startups) and sectors.
 - [AllSeen Alliance](https://allseenalliance.org/) - The AllSeen Alliance is a nonprofit consortium dedicated to enabling and driving the widespread adoption of products, systems and services that support the Internet of Everything with an open, universal development framework supported by a vibrant ecosystem and thriving technical community.
 - [Bluetooth Special Interest Group](https://www.bluetooth.org/) - The Bluetooth Special Interest Group (SIG) is the body that oversees the development of Bluetooth standards and the licensing of the Bluetooth technologies and trademarks to manufacturers.
 - [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
