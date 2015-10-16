@@ -195,6 +195,8 @@ WebSocket is a protocol providing full-duplex communication channels over a sing
 
 ## Technologies
 
+> This sections regroups a curated list of awesome technologies that are closely related to the IoT world.
+
 ### <img width="50" src="http://vectorlogofree.com/wp-content/uploads/2012/12/nfc-logo-vector-400x400.png" /> - [NFC](https://en.wikipedia.org/wiki/Near_field_communication)
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
