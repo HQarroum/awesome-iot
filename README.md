@@ -14,11 +14,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Programming Languages](#programming-languages)
   - [Frameworks](#frameworks)
   - [Middlewares](#middlewares)
-  - [Libraries & Tools](#libraries-&-tools)
+  - [Libraries and Tools](#libraries-and-tools)
   - [Miscellaneous](#miscellaneous)
 - [Protocols and Networks](#protocols-and-networks)
 - [Technologies](#technologies)
-- [Standards & Alliances](#standard-and-alliances)
+- [Standards and Alliances](#standard-and-alliances)
 - [Resources](#resources)
   - [Books](#books)
   - [Articles](#articles)
@@ -76,7 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
  - [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
 
-#### Libraries & Tools
+#### Libraries and Tools
 
  - [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
  - [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powertfull, yet memory efficient, embedded web applications.
@@ -202,7 +202,7 @@ WebSocket is a protocol providing full-duplex communication channels over a sing
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
-## Standards & Alliances
+## Standards and Alliances
 
 ### Standards
 
