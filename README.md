@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Programming Languages](#programming-languages)
   - [Frameworks](#frameworks)
   - [Middlewares](#middlewares)
-  - [Libraries & Tools](#libraries-and-tools)
+  - [Libraries & Tools](#libraries-&-tools)
   - [Miscellaneous](#miscellaneous)
 - [Protocols and Networks](#protocols-and-networks)
 - [Technologies](#technologies)
