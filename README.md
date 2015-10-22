@@ -23,9 +23,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Books](#books)
   - [Articles](#articles)
   - [Papers](#papers)
-- [Existing projects](#existing-projects)
-  - [Open Source](#open-source)
-  - [Closed Source](#closed-source)
 
 ### Hardware
 
