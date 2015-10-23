@@ -35,7 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pinoccio](https://pinocc.io/) - Pinoccio is a pocket-sized, wireless sensor and microcontroller board that combines the features of an Arduino Mega board with a ZigBee compatible 2.4GHz radio.
 - [Raspberry Pi](https://www.raspberrypi.org/) - The Raspberry Pi is a low cost, credit-card sized computer that plugs into a computer monitor or TV, and uses a standard keyboard and mouse. It’s capable of doing everything you’d expect a desktop computer to do, from browsing the internet and playing high-definition video, to making spreadsheets, word-processing, and playing games.
 - [Tessel](https://tessel.io/) - Tessel is a completely open source and community-driven IoT and robotics development platform. It encompases development boards, hardware module add-ons, and the software that runs on them.
-- [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLINUXINO is Open Source Software and Open Source Hardware Open Source Hardware, low cost EUR 30 Linux Industrial grade single board computer with GPIOs capable of operating at -25+85C.
+- [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLINUXINO is Open Source Software and Open Source Hardware, low cost EUR 30 Linux Industrial grade single board computer with GPIOs capable of operating at -25+85C.
 
 ### Software
 
