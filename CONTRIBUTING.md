@@ -12,13 +12,13 @@ For any other changes (fix spelling, formatting, etc.), please open an issue or 
 
 ## Formatting
 
-* For technologies format your proposal as `[logo](link) - [name]` short description > complete description.
-* For books format your proposal as `[Title] (year) by [author name](link) [rating] description.`.
-* For other entries format your proposal as `[Entry name](http://example.com) - description.` with no trailing punctuation.
+* For technologies, format your proposal as `[logo](link) - [name] Short description. > Complete description.`.
+* For books, format your proposal as `[Title] (year) by [author name](link) [rating] Description.`.
+* For other entries, format your proposal as `[Entry name](http://example.com) - Description.`.
 * Titles should be capitalized.
 * No trailing whitespace.
 * Sub-lists are organized alphabetically, case-insensitive.
-* Indication on whether you have personally used a framework, library, solution is welcome.
+* Personal opinion on a proposed framework, library or solution is welcome.
 
 ## Descriptions
 
