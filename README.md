@@ -203,7 +203,7 @@ WebSocket is a protocol providing full-duplex communication channels over a sing
 
 > WebSocket is designed to be implemented in web browsers and web servers, but it can be used by any client or server application. The WebSocket Protocol is an independent TCP-based protocol. The WebSocket protocol makes more interaction between a browser and a website possible, facilitating live content and the creation of real-time games. This is made possible by providing a standardized way for the server to send content to the browser without being solicited by the client, and allowing for messages to be passed back and forth while keeping the connection open.
 
-#### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" /> - [XMPP](https://en.wikipedia.org/wiki/XMPP)
+#### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/XMPP_logo.svg" /> - [XMPP](https://en.wikipedia.org/wiki/XMPP) (IETF)
 
 Extensible Messaging and Presence Protocol (XMPP) is a communications protocol for message-oriented middleware based on XML (Extensible Markup Language). - [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
 
