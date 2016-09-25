@@ -264,9 +264,18 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 ### Books
 
+#### [Building the Web of Things: with examples in Node.js and Raspberry Pi](http://book.webofthings.io) (2016) *by [Dominique Guinard](http://amazon.com/author/domguinard) and Vlad Trifa* [5.0] 
+
+> A hands-on guide that will teach how to design and implement scalable, flexible, and open IoT solutions using web technologies. This book focuses on providing the right balance of theory, code samples, and practical examples to enable you to successfully connect all sorts of devices to the web and to expose their services and data over REST APIs. The book covers a number of web technologies for your IoT toolbox: GPIO, Raspberry Pi, Embedded Systems, REST and HTTP, WS, MQTT, CoAP, JSON-LD, Social Networks, Node-RED, IFTTT, etc.
+
 #### [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337) (2015) *by [Nitesh Dhanjani](http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1)* [5.0]
 
 >  future with billions of connected "things" includes monumental security concerns. This practical book explores how malicious attackers can abuse popular IoT-based devices, including wireless LED lightbulbs, electronic door locks, baby monitors, smart TVs, and connected cars.
+
+#### [Using the Web to Build the IoT](https://manning.com/books/using-the-web-to-build-the-iot) (2016) *by [Dominique Guinard](http://amazon.com/author/domguinard)
+and Vlad Trifa
+> Using the Web to Build the IoT is a free book built as a collection of six hand-picked chapters that introduce the key technologies and concepts for building the application layer of the IoT. Dom Guinard and Vlad Trifa, selected these specific topics to give you an overview of the Web of Things architecture, along with techniques for data ingestion, searching, security, and visualization.
+
 
 #### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) *by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)* [4.5]
 
@@ -298,6 +307,7 @@ creates and maintains specifications, ensures compliance with OPC specifications
 - [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 - [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/sites/default/files/pages/TIA-White-Paper-Realizing_the_Potential_of_the_Internet_of_Things.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 - [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
+
 
 ## License
 
