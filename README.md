@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
  - [Gobot](http://gobot.io/) - Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.
  - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+ - [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 #### Middlewares
 
@@ -101,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
  - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
  - [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
+ - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 #### Miscellaneous
 
