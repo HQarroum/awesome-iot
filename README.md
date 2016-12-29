@@ -131,6 +131,12 @@ Bluetooth low energy (Bluetooth LE, BLE, marketed as Bluetooth Smart) is a wirel
 
 > Compared to Classic Bluetooth, Bluetooth Smart is intended to provide considerably reduced power consumption and cost while maintaining a similar communication range. The Bluetooth SIG predicts that by 2018 more than 90 percent of Bluetooth-enabled smartphones will support Bluetooth Smart.
 
+#### [EC-GSM-IoT](http://www.gsma.com/connectedliving/extended-coverage-gsm-internet-of-things-ec-gsm-iot/) (EC-GSM-IoT Group)
+
+Extended coverage GSM IoT (EC-GSM-IoT) is a standard-based Low Power Wide Area technology. It is based on eGPRS and designed as a high capacity, long range, low energy and low complexity cellular system for IoT communications.
+
+> The EC-GSM-IOT network trials have begun, with the first commercial launches planned for 2017. Supported by all major mobile equipment, chip set and module manufacturers, EC-GSM-IoT networks will co-exist with 2G, 3G, and 4G mobile networks. It will also benefit from all the security and privacy mobile network features, such as support for user identity confidentiality, entity authentication, confidentiality, data integrity, and mobile equipment identification.
+
 #### <img width="50" src="http://www.taktilis.fr/wp-content/uploads/Lora.jpg" /> - [LoRaWAN](https://en.wikipedia.org/wiki/LoRaWAN) (LoRa Alliance)
 
 A LoRaWAN wide area network allows low bit rate communication from and to connected objects, thus participating to Internet of Things, machine-to-machine M2M, and smart city. - [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
