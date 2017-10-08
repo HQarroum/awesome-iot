@@ -319,6 +319,10 @@ and Vlad Trifa
 
 > Smart Things presents a problem-solving approach to addressing designers' needs and concentrates on process, rather than technological detail, to keep from being quickly outdated. It pays close attention to the capabilities and limitations of the medium in question and discusses the tradeoffs and challenges of design in a commercial environment.
 
+#### [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
+
+> JavaScript on Things is your first step into the exciting and downright entertaining world of programming for small electronics. If you know enough JavaScript to hack a website together, you'll be making things bleep, blink and spin faster than you can say "nodebot". This fully-illustrated, hands-on book shows you how to get going with platforms like Arduino, Tessel, and Raspberry Pi. 
+
 ### Articles
 
 - [A Simple Explanation Of 'The Internet Of Things' (Forbes)](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/) - This article attemps to give an answer to what exactly is the “Internet of things” and what impact it is going to have on us.
