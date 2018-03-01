@@ -93,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Middlewares
 
+ - [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
  - [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
  - [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
  - [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
