@@ -242,6 +242,12 @@ MQTT (formerly MQ Telemetry Transport) is a publish-subscribe based "light weigh
 
 > The publish-subscribe messaging pattern requires a message broker. The broker is responsible for distributing messages to interested clients based on the topic of a message. Andy Stanford-Clark and Arlen Nipper of Cirrus Link Solutions authored the first version of the protocol in 1999.
 
+#### <img width="50" src="https://www.pjon.org/assets/images/PJON-logo-devices.jpg" /> - [PJON](https://github.com/gioblu/PJON/)
+
+PJON® (Padded Jittering Operative Network) is an Arduino compatible, multi-master, multi-media network protocol. It proposes a Standard, it is designed as a framework and implements a totally software emulated network protocol stack that can be easily cross-compiled on many architectures like ATtiny, ATmega, ESP8266, ESP32, STM32, Teensy, Raspberry Pi, Linux, Windows x86 and Apple machines. It is a valid tool to quickly and comprehensibly build a network of devices. Visit wiki and documentation to know more about the PJON Standard.
+
+> PJON is used in thousands of devices and its community has spread worldwide because of the following 6 key factors: New technology, Multi-media support, Increased security, Increased reliability, High flexibility and Low cost.
+
 #### <img width="50" src="https://stomp.github.io/images/project-logo.png" /> - [STOMP](https://stomp.github.io/)
 
 Simple (or Streaming) Text Oriented Message Protocol (STOMP), formerly known as TTMP, is a simple text-based protocol, designed for working with message-oriented middleware (MOM). - [Wikipedia](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol)
