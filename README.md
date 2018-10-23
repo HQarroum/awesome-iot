@@ -105,6 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [I1820](https://i1820.github.io/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
  - [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
  - [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
+ - [VerneMQ](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
 
 #### Libraries and Tools
