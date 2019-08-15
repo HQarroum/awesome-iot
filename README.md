@@ -31,10 +31,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Arduino](https://www.arduino.cc/) - Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
 - [BeagleBoard](http://beagleboard.org/) - The BeagleBoard is a low-power open-source hardware single-board computer produced by Texas Instruments in association with Digi-Key and Newark element14.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c) - The DragonBoard 410c, a product of Arrow Electronics, is the development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor. It features advanced processing power, Wi-Fi, Bluetooth connectivity, and GPS, all packed into a board the size of a credit card.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - The Intel® Galileo Gen 2 board is the first in a family of Arduino*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.
 - [Microduino](https://www.microduino.cc/) - Microduino and mCookie bring powerful, small, stackable electronic hardware to makers, designers, engineers, students and curious tinkerers of all ages. Build open-source projects or create innovative new ones.
-- [Node MCU (ESP 8266)](http://nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
+- [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
 - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLinuXino is an Open Source Software and Open Source Hardware low cost (EUR 30) Linux Industrial grade single board computer with GPIOs capable of operating from -25°C to +85°C.
 - [Odroid](http://www.hardkernel.com/) - The ODROID means Open + Droid. It is a development platform for the hardware as well as the software.
 - [Particle](https://www.particle.io) - A suite of hardware and software tools to help you prototype, scale, and manage your Internet of Things products.
@@ -110,6 +111,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [VerneMQ](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
  - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
+ - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 
 #### Libraries and Tools
 
@@ -120,6 +122,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
  - [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
+ - [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 #### Miscellaneous
