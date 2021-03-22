@@ -120,6 +120,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
  - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
  - [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
+ - [NanoMQ](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+ - [Kuiper](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
 
 #### Libraries and Tools
 
