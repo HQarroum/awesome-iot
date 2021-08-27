@@ -138,6 +138,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+ - [QuestDB](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applciations. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 
 #### Miscellaneous
 
