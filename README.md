@@ -331,18 +331,9 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 ### Books
 
-#### [Building the Web of Things: with examples in Node.js and Raspberry Pi](http://book.webofthings.io) (2016) *by [Dominique Guinard](http://amazon.com/author/domguinard) and Vlad Trifa* [5.0]
-
-> A hands-on guide that will teach how to design and implement scalable, flexible, and open IoT solutions using web technologies. This book focuses on providing the right balance of theory, code samples, and practical examples to enable you to successfully connect all sorts of devices to the web and to expose their services and data over REST APIs. The book covers a number of web technologies for your IoT toolbox: GPIO, Raspberry Pi, Embedded Systems, REST and HTTP, WS, MQTT, CoAP, JSON-LD, Social Networks, Node-RED, IFTTT, etc.
-
 #### [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337) (2015) *by [Nitesh Dhanjani](http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1)* [5.0]
 
 >  future with billions of connected "things" includes monumental security concerns. This practical book explores how malicious attackers can abuse popular IoT-based devices, including wireless LED lightbulbs, electronic door locks, baby monitors, smart TVs, and connected cars.
-
-#### [Using the Web to Build the IoT](https://manning.com/books/using-the-web-to-build-the-iot) (2016) *by [Dominique Guinard](http://amazon.com/author/domguinard)
-and Vlad Trifa
-> Using the Web to Build the IoT is a free book built as a collection of six hand-picked chapters that introduce the key technologies and concepts for building the application layer of the IoT. Dom Guinard and Vlad Trifa, selected these specific topics to give you an overview of the Web of Things architecture, along with techniques for data ingestion, searching, security, and visualization.
-
 
 #### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) *by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)* [4.5]
 
