@@ -144,6 +144,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
  - [QuestDB](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+ - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.  
+
 
 #### Miscellaneous
 
