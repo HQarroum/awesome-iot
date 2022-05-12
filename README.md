@@ -153,6 +153,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
  - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
  - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
+ - [authBroker](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
 ## Protocols and Networks
 
 ### Physical layer
