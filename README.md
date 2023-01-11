@@ -356,6 +356,10 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 > Whether it's called physical computing, ubiquitous computing, or the Internet of Things, it's a hot topic in technology: how to channel your inner Steve Jobs and successfully combine hardware, embedded software, web services, electronics, and cool design to create cutting-edge devices that are fun, interactive, and practical. If you'd like to create the next must-have product, this unique book is the perfect place to start.
 
+#### [Edge Computing Technology and Application](https://www.manning.com/books/edge-computing-technology-and-applications) (2023) *by [Perry Lea](https://www.linkedin.com/in/perrylea/) 
+
+> This no-nonsense guide from veteran technologist Perry Lea slices through the buzzwords and reveals how edge computing affects your business and IT decisions, from hardware and software systems to the way you interact with customers, clients, and employees.
+
 #### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* [4.5]
 
 > This book provides a solid, high-level overview of how devices use Ble to communicate with each other. You'll learn useful low-cost tools for developing and testing Ble-enabled mobile apps and embedded firmware and get examples using various development platforms including iOs and Android for app developers and embedded platforms for product designers and hardware engineers.
