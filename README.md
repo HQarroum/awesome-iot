@@ -137,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [t6](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
  - [IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
  - [Husarnet](https://husarnet.com/) - Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.
+ - [Zilla](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 
 #### Libraries and Tools
 
