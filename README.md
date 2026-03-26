@@ -110,6 +110,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
  - [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
  - [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
+ - [Ixian](https://www.ixian.io/) - Open-source P2P platform with DLT and hybrid post-quantum cryptography, designed for serverless device-to-device communication in IoT environments.
  - [MyController](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
  - [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
  - [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
@@ -141,6 +142,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [IoTSharp](https://github.com/IoTSharp/IoTSharp) - IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.
  - [Husarnet](https://husarnet.com/) - Husarnet is a global peer-to-peer network layer that can make the MCU-Server or MCU-MCU connection directly, without the need of a bridge, over the internet.
  - [Zilla](https://github.com/aklivity/zilla) - A Multi-protocol event-native edge/service proxy that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+ - [QuIXI](https://github.com/ixian-platform/quixi) - REST and MQTT gateway bridging standard IoT protocols to the Ixian P2P network, enabling encrypted serverless device communication without cloud infrastructure.
 
 #### Libraries and Tools
 
