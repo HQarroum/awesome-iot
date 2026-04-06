@@ -8,6 +8,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for IoT multi-agent orchestration, automated device monitoring, and infrastructure management. MIT licensed.
 ## Table of Contents
 
 - [Hardware](#hardware)
