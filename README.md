@@ -119,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
  - [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
  - [IoTSharp.Gateways](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
+ - [ForestHub.ai](https://foresthub.ai) - Platform for building, deploying and orchestrating embedded and edge AI agents on machines, controllers, sensors and industrial edge devices. Visual builder, local runtime, generated embedded code, hybrid edge-cloud orchestration.
 
 #### Middlewares
 
