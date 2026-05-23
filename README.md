@@ -170,7 +170,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 #### Miscellaneous
-
+   
  - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
  - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
  - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
@@ -179,7 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
  - [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 - [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
-
+- [The 2026 Shift to Cloud Access Control in Dallas](https://medium.com/@swati_1790/why-dallas-businesses-are-ditching-physical-keys-for-cloud-based-access-control-in-2026-df882bd92872) - A high-level overview of why commercial properties are abandoning physical keys for cloud-managed, mobile-credentialed IoT access systems.
 ## Protocols and Networks
 
 ### Physical layer
