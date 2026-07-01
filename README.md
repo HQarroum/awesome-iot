@@ -180,6 +180,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
  - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
  - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
+ - [HimitsuShell](https://himitsushell.com) - A shell script DRM compiler that converts shell scripts into obfuscated binaries using an embedded shell interpreter and anti-debugging (alternative to shc).
  - [authBroker](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
  - [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
  - [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
