@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Books](#books)
   - [Articles](#articles)
   - [Papers](#papers)
+  - [Newsletters](#newsletters)
 
 ### Hardware
 
