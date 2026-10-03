@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [MQTT ACL Linter](https://github.com/visoar/mqtt-acl-linter) - Local-only MQTT topic ACL static analysis with optional RunMQTT policy checks.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
  - [MQTT X](https://mqttx.app/) - MQTT X is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which supports macOS, Linux, and Windows.
+- [Mqttable](https://mqttable.com/) - Desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.
  - [ops](https://ops.city/) - A free open source tool to build, run, and deploy Linux applications as unikernels.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
