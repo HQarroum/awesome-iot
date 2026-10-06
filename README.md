@@ -340,6 +340,8 @@ Extensible Messaging and Presence Protocol (XMPP) is a communications protocol f
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
+- [Awesome NFC](https://github.com/3liAf/awesome-nfc) - A curated list of tools, libraries, hardware, and guides for working with NFC tags.
+
 ### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 OPC-UA is not only a protocol for industrial automation but also a technology that allows semantic description and object modelling of industrial environment.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
