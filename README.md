@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
  - [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 - [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
+ - [Fieldhand](https://fieldhand.dev/) - Remote shell, port forwarding and health for Linux devices behind 4G, CGNAT or firewalls. Static Go agent (no libc) with one outbound connection on 443; open-source agent (Apache-2.0), hosted server. Free for 5 devices.
 
 ## Protocols and Networks
 
