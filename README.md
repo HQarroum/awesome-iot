@@ -407,7 +407,6 @@ creates and maintains specifications, ensures compliance with OPC specifications
 #### [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
 
 > JavaScript on Things is your first step into the exciting and downright entertaining world of programming for small electronics. If you know enough JavaScript to hack a website together, you'll be making things bleep, blink and spin faster than you can say "nodebot". This fully-illustrated, hands-on book shows you how to get going with platforms like Arduino, Tessel, and Raspberry Pi.
->
 - [Beyond the Sketch: Building Real ESP32 Firmware, One Task at a Time](https://tailoredread.com/book/beyond-sketch-building-real-esp32-firmware-42bb3db9caf7) - Free complete book on ESP32 firmware with FreeRTOS, written with AI. Read online or download the PDF or EPUB.
 
 ### Articles
