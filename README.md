@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
  - [Home Automation Cookbook](https://www.homeautomationcookbook.com/) - Free, tested smart home automation recipes with steps for Hubitat, SmartThings, Alexa, and Home Assistant.
  - [authBroker](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
+ - [MatterCatalog](https://mattercatalog.com/) - Free catalog of Matter smart home devices sold in the US: each model checked against the CSA certification ledger, with its network (Thread or Wi-Fi), the platforms it works with and a free JSON API.
  - [MQTT File Uploader](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
  - [PiSpot-Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi WiFi voucher display system with weather integration and PiJuice battery management.
 - [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
