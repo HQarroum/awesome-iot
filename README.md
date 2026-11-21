@@ -121,6 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
  - [IoTSharp.Gateways](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
  - [ForestHub](https://foresthub.ai) - Edge AI agent platform. Its open-source runtime [edge-agents](https://github.com/ForestHubAI/edge-agents) runs AI agents offline on Linux edge gateways (Raspberry Pi, Jetson), with local SLMs alongside cloud LLMs, GPIO/UART/MQTT as first-class nodes, and a visual builder.
+ - [Xiaomi Vacuum](https://github.com/matteocelani/xiaomi-vacuum) - Home Assistant integration for Xiaomi and Dreame robot vacuums, a fork of Tasshack/dreame-vacuum.
 
 #### Middlewares
 
