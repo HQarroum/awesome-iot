@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
  - [MQTT X](https://mqttx.app/) - MQTT X is a cross-platform MQTT 5.0 client tool open sourced by EMQ, which supports macOS, Linux, and Windows.
 - [Mqttable](https://mqttable.com/) - Desktop MQTT workbench for traffic inspection, replay, load testing, fault injection, and PCAP analysis.
+ - [NLTP](https://github.com/indian-aman/NLTP-Arduino) - MIT-licensed wireless transport library in C99 (Arduino/ESP32/ESP8266), Python, JS, and Java combining X25519 forward secrecy, ChaCha20-Poly1305 AEAD, LZ4 compression, and systematic GF(2^8) Cauchy erasure coding for lossy IoT links.
  - [ops](https://ops.city/) - A free open source tool to build, run, and deploy Linux applications as unikernels.
  - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [Tapo](https://github.com/mihai-dinculescu/tapo) - Rust API, Python API, and MCP Server for TP-Link Tapo smart devices.
