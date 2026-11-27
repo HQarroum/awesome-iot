@@ -177,6 +177,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [ThingsOn MQTT Bench](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
  - [mqttkit](https://github.com/keyp-dev/mqttkit) - Elysia-style application framework for MQTT in TypeScript / Bun. Compose broker adapters, ordered middleware, typed topic routes, MQTT 5 RPC, and AsyncAPI 3.0 docs on top of Aedes or any MQTT broker.
  - [ReductStore](https://github.com/reductstore/reductstore) - high-performance blob and time-series storage for industrial IoT, with edge deployment, selective replication, and efficient querying of multimodal data. 
+ - [RTSP Inspector](https://hannes-software.com/rtsp-inspector/) - Local-first desktop RTSP/RTP/RTCP/SDP diagnostic tool for IP cameras and IoT video streams on Windows and Linux (free Community Edition).
+
 
 #### Miscellaneous
 
